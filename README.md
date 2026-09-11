@@ -117,3 +117,11 @@ B.Tech — Information Technology
 ## 📄 License
 
 This project is created for educational and learning purposes.
+
+📸 Project Screenshots
+
+
+Main Menu
+
+
+Add Student
