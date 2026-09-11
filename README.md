@@ -118,10 +118,11 @@ B.Tech — Information Technology
 
 This project is created for educational and learning purposes.
 
-📸 Project Screenshots
 
+## 📸 Project Screenshots
 
-Main Menu
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
 
-
-Add Student
+### Add Student
+![Add Student](screenshots/add-student.png)
